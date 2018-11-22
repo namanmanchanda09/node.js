@@ -19,3 +19,5 @@ The computed result will be transferred over the network to the client.
 
 ![screenshot 2018-11-22 at 10 41 59 pm](https://user-images.githubusercontent.com/35381035/48916659-286e4880-eea9-11e8-805e-d647d3cb0bb6.png)
 
+Technologies: WebAssembly, Distributed Computing
+
