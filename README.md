@@ -1,2 +1,2 @@
-# The Distributed internet.
+# INTERNET 2.0
 
