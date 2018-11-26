@@ -1,4 +1,1 @@
-# INTERNET 2.0
-
-### 1. Introduction
-
+# Blockchain powered solutions for disaster management.
