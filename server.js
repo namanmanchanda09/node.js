@@ -20,6 +20,7 @@ app.post('/profile',(req,res)=>{
 
     res.send(user);
 })
-app.listen(3000)
+app.listen(3000);
+
 
 
