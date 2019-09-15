@@ -7,12 +7,13 @@ const app = express();
 app.use(bodyParser.urlencoded({extended:false}));
 app.use(bodyParser.json());
 
-app.get('/',(req,res)=>{
-    console.log(req.query);
-    res.send('getting root');    //access te query string for ex localhost:3000/?name=naman&age=20
+app.get('/:id',(req,res)=>{
+    console.log(req.query);   //access te query string for ex localhost:3000/?name=naman&age=20
     //req.body
     //req.header
-    //req.params
+    console.log(req.params);
+    res.send('getting root');    
+
 });
 
 
